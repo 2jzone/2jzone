@@ -4,7 +4,7 @@
 <h1 align="center">What's poppin'? I'm Jason Angeles</h1>
 <h3 align="center">An aspiring Full Stack Web Developer, c</h3>
 
-<p align="left"> <a href="https://github.com/2jzone/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2jzone" alt="2jzone" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/2jzone/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2jzone" alt="2jzone" /></a> </p> -->
 
 - 🔭 Currently working on **New Era - Asset Inventory Management System. Focused on implementing functionalities and integrating Ollama LLMS for a chat assistant in the website.**
 
