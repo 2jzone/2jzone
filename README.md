@@ -1,8 +1,6 @@
 
 ![Header](./github-header-banner.png)
-<a href="https://www.instagram.com/_jasonangeles/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+
 <h1 align="center">What's poppin'? I'm Jason Angeles</h1>
 <h3 align="center">An aspiring Full Stack Web Developer, c</h3>
 
