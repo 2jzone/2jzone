@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2jzone&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="2jzone" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2jzone&show_icons=true&locale=en" alt="2jzone" /></p>
+
 
 ![Snake animation](https://github.com/2jzone/2jzone/blob/output/github-contribution-grid-snake.svg)
