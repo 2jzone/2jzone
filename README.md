@@ -1,8 +1,8 @@
 
 ![Header](./github-header-banner.png)
 
-<h1 align="center">What's poppin'? I'm Jason Angeles</h1>
-<h3 align="center">An aspiring Full Stack Web Developer, c</h3>
+<h1 align="center">What's poppin'?</h1>
+<h3 align="center">I am an aspiring Full Stack Web Developer, who is currently finishing up a bachelor's degree on Information Technology with Specialization in Mobile and Web Applications at National University Manilac</h3>
 
 <!-- <p align="left"> <a href="https://github.com/2jzone/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2jzone" alt="2jzone" /></a> </p> -->
 
