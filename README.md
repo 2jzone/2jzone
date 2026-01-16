@@ -2,7 +2,7 @@
 ![Header](./github-header-banner.png)
 
 <h1 align="center">What's poppin'?</h1>
-<a href="https://2jzone-portfolio.vercel.app">Visit my Website Portfolio</a>
+<a href="https://2jzone-portfolio.vercel.app" align="center">Visit my Website Portfolio</a>
 <h3 align="center">I am an aspiring Full Stack Web Developer, who is currently finishing up a bachelor's degree on Information Technology with Specialization in Mobile and Web Applications at National University Manila</h3>
 
 <!-- <p align="left"> <a href="https://github.com/2jzone/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2jzone" alt="2jzone" /></a> </p> -->
