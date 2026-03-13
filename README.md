@@ -7,9 +7,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/2jzone/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2jzone" alt="2jzone" /></a> </p> -->
 
-- 🔭 Currently working on **New Era - Asset Inventory Management System. Focused on implementing functionalities and integrating Ollama LLMS for a chat assistant in the website.**
+- 🔭 Currently working on my C# certification and trying to make simple OOP programs to enhance my skills using c#
 
-- 🌱 I’m currently learning **Laravel, Intertia.js, and integrating Ollama AI**
+- 🌱 I’m currently learning **C# to expand my knowledge on becoming a software engineer/developer**
 
 - 📫 How to reach me **jasonsangeles1@gmail.com**
 
